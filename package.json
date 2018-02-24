@@ -1,0 +1,22 @@
+{
+  "name": "meadebot",
+  "version": "1.0.0",
+  "description": "a Twitch bot made using tmi.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattM7/MeadeBot.git"
+  },
+  "author": "Matthew Meade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattM7/MeadeBot/issues"
+  },
+  "homepage": "https://github.com/MattM7/MeadeBot#readme",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
